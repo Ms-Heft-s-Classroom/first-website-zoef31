@@ -1,0 +1,20 @@
+body {
+    background-color: #336d33a4;
+    text-align:center;
+}
+h1{
+    font-family:monospace;
+      color: #1d4926d8;
+    font-size: 35px;
+    
+  }
+  h4 {
+    font-family:monospace;
+    color: #1d4926d8;
+  font-size: 20px;
+  }
+  p {
+    font-family:monospace;
+    color: #1d4926d8;
+  font-size: 21px;
+  }
